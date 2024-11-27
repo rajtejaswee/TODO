@@ -11,6 +11,9 @@ A simple and intuitive Todo application built with React and Vite. This app lets
 
 ## Tech Stack
 
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/) [![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/) [![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) 
+
+
 - **React.js:** Core library for building the UI, utilizing `useState`, `useEffect`, and `Context API` for state management and reactivity.
 - **Vite:** Fast and lightweight development environment with HMR (Hot Module Replacement) for rapid development.
 - **Tailwind CSS:** Utility-first CSS framework for styling.
