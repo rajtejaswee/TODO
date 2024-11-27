@@ -25,25 +25,10 @@ This project is built using Vite, which provides a minimal setup to get React ru
 
 ## Screenshots
 
-### Add Todo
-![Add Todo](./screenshots/add_todo.png)
+| ![Add Todo](./screenshots/add_todo.png) | ![Update Todo](./screenshots/update_todo.png) | 
+|------------------------------------------|------------------------------------------|
+|![Delete Todo](./screenshots/delete_todo.png)  | ![Toggle Todo](./screenshots/toggle_todo.png) | 
 
-This screenshot shows the "Add Todo" feature, where users can input a new task and add it to the list.
-
-### Update Todo
-![Update Todo](./screenshots/update_todo.png)
-
-Here, the "Update Todo" feature allows users to modify the text of an existing task.
-
-### Delete Todo
-![Delete Todo](./screenshots/delete_todo.png)
-
-The "Delete Todo" feature enables users to remove tasks they no longer need.
-
-### Toggle Todo
-![Toggle Todo](./screenshots/toggle_todo.png)
-
-With the "Toggle Todo" feature, users can mark tasks as completed or not, helping them keep track of their progress.
 
 ## Code Overview
 
